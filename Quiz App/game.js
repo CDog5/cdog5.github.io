@@ -62,7 +62,7 @@ getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         //go to the end page
         localStorage.setItem("mostRecentScore",score);
-        return window.location.assign('/end.html');
+        return window.location.assign('https://cdog5.github.io/Chat App/end.html');
     }
     questionCounter++;
     questionCounterTxt.innerText = questionCounter + "/"+MAX_QUESTIONS;
