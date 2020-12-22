@@ -2,8 +2,8 @@
 
 body{
     background-color: rgb(255, 0, 0);
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 80%;
+    max-height: 80%;
     width:auto;
     height:auto;
 }
@@ -34,8 +34,8 @@ h2{
 }
 .footerbar {
     position: fixed;
-    left: 0;
-    bottom: 0;
+    left: 0%;
+    bottom: 0%;
     width: 100%;
     background-color: rgba(255, 65, 65, 0.8);
     color: white;
