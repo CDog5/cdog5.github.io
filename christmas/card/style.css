@@ -3,11 +3,11 @@
 body{
     background-color: rgb(255, 0, 0);
 }
-img .xmascard{
+.xmascard{
+    max-width: 20%;
+    max-height: 20%;
     width:auto;
     height:auto;
-    max-width: 10%;
-    max-height: 10%;
 }
 h2{
     font-family: 'Poppins', sans-serif;
