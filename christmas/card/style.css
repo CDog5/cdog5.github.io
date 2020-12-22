@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.xmascard{
+    width: 25%;
+    height: 80%;
+    
+}
+body{
+    background-color: rgb(255, 0, 0);
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+}
+.footerbar ul{
+    list-style: none;
+    display: inline-flex;
+    
+}
+.footerbar ul li{
+    margin: 0 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+}
+.footerbar ul a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+}
+.footerbar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 65, 65, 0.8);
+    color: white;
+    text-align: center;
+  }
