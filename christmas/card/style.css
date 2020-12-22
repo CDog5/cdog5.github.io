@@ -6,8 +6,8 @@ body{
 .xmascard{
     max-width: 20%;
     max-height: 20%;
-    width:auto;
-    height:auto;
+    width:fit-content;
+    height:fit-content;
 }
 h2{
     font-family: 'Poppins', sans-serif;
@@ -29,7 +29,7 @@ h2{
     color: rgba(255, 255, 255, 0.8);
 }
 .footerbar {
-    position: fixed;
+    position: absolute;
     left: 0%;
     bottom: 0%;
     width: 100%;
