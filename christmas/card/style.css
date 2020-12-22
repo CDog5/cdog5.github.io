@@ -6,6 +6,8 @@ body{
 .xmascard{
     width:auto;
     height:auto;
+    max-width: 20%;
+    max-height: 20%;
 }
 h2{
     font-family: 'Poppins', sans-serif;
