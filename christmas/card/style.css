@@ -4,8 +4,8 @@ body{
     background-color: rgb(255, 0, 0);
 }
 .xmascard{
-    max-width: 20%;
-    max-height: 20%;
+    max-width: 500px;
+    max-height: 500px;
     width:auto;
     height:auto;
 }
