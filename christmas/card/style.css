@@ -4,8 +4,8 @@ body{
     background-color: rgb(255, 0, 0);
 }
 .xmascard{
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 20%;
+    max-height: 20%;
     width:auto;
     height:auto;
 }
@@ -29,7 +29,7 @@ h2{
     color: rgba(255, 255, 255, 0.8);
 }
 .footerbar {
-    position: absolute;
+    position: static;
     left: 0%;
     bottom: 0%;
     width: 100%;
